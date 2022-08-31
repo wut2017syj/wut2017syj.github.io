@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
@@ -290,15 +290,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
-=======
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: SYJ pages
-description: personal pages test
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-architect
->>>>>>> f65fd92a496bb723a515937a32f115fb4b139384
