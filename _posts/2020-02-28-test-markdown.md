@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: plog1
+subtitle: try for a test
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
@@ -17,12 +16,11 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 Here's a useless table:
 
 | Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
+| :----- | :---------- | :-------------- |
+| Five   | Six         | Four            |
+| Ten    | Eleven      | Nine            |
+| Seven  | Eight       | Six             |
+| Two    | Three       | One             |
 
 How about a yummy crepe?
 
@@ -34,12 +32,12 @@ It can also be centered!
 
 Here's a code chunk:
 
-~~~
+```
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
-~~~
+```
 
 And here is the same code with syntax highlighting:
 
@@ -60,6 +58,7 @@ foo(3)
 {% endhighlight %}
 
 ## Boxes
+
 You can add notification, warning and error boxes like this:
 
 ### Notification
