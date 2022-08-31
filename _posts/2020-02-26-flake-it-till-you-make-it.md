@@ -1,6 +1,6 @@
 ---
 layout: post
-title: blog2
+title: test blog2
 subtitle: a test
 cover-img: /assets/img/111.jpg
 thumbnail-img: /assets/img/thumb.png
