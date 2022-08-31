@@ -1,10 +1,10 @@
 ---
-tittle:创建个人主页
-subtitle:记录我的主页创建过程
-readtime:true
-social-share:false
-layout:post
-tags:[blogs,pages,github]
+tittle: 创建个人主页
+subtitle: 记录我的主页创建过程
+readtime: true
+social-share: false
+layout: post
+tags: [blogs,pages,github]
 ---
 这篇博客简单记录一下github pages创建过程。我按照网上的介绍总有不对的地方，感谢我的同学们对我的帮助。
 
