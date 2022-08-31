@@ -1,6 +1,6 @@
 ---
 layout: post
-title: plog1
+title: test plog1
 subtitle: try for a test
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
