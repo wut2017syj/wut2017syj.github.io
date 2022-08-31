@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 个人介绍
+subtitle: 武汉理工大学_SYJ
 ---
+软件工程学硕（在读）
 
-My name is Inigo Montoya. I have the following qualities:
+本站用于记录研究生期间的一些个人博客
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+* Leetcode刷题记录
+* 遇到一些问题的解决
 
-What else do you need?
+创建时间：22.08.31
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+联系方式：*2250047931@qq.com*
