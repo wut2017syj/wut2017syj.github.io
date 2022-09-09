@@ -33,3 +33,5 @@ Note: 更换主题的时候只需要把之前的主题文件全部删除，换�
 | comments      | 如果您想向特定页面添加评论，请使用 `comments: true`. 仅当您在文件中启用评论提供程序之一（Facebook、disqus、staticman、话语、giscus、评论框）时，评论才有效 `_config.yml`。评论会自动在博客文章上启用，但不会在其他页面上启用；要关闭特定帖子的评论，请使用 `comments: false`.                              |
 
 更新的博客和页面放在posts文件夹下，以markdown的形式创建。其他格式布局需要参考主题详细介绍。
+
+主页各个元素的配置在_config.yml文件中直接进行修改。
