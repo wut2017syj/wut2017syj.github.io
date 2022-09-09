@@ -11,7 +11,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: SYJ的博客
 
 # Your name to show in the footer
 author: SYJ
@@ -21,8 +21,8 @@ author: SYJ
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  个人介绍: "aboutme"
+  个人链接:
     - github代码库: "https://github.com/wut2017syj?tab=repositories"
     - CSDN个人主页: "https://blog.csdn.net/whutsyj?spm=1000.2115.3001.5343"
   友情链接: 
