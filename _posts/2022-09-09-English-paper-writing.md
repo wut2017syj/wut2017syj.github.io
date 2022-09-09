@@ -3,7 +3,7 @@ layout: post
 title: 英语科技文写作
 subtitle: English paper writing
 cover-img: /assets/img/whut.png
-thumbnail-img: /assets/img/syj-9-9.png
+thumbnail-img: /assets/img/syj-9-9.jpg
 tags: [paper,writing,English,科技文写作]
 comments: true
 social-share: false
@@ -22,6 +22,6 @@ readtime: true
 3. 段落的写法
 4. 补充要点
 
-更多详细内容请直接通过ppt获取。*/请尊重作者不作商业使用/*
+更多详细内容请直接通过ppt获取。*请尊重作者不作商业使用*
 
 [请在这个库中获取PPT](https://github.com/wut2017syj/documents "github地址")
