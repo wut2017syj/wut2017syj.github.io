@@ -23,9 +23,11 @@ author: SYJ
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - yxt: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - github代码库: "https://github.com/wut2017syj?tab=repositories"
+    - CSDN个人主页: "https://blog.csdn.net/whutsyj?spm=1000.2115.3001.5343"
+  友情链接: 
+    - YXT: "https://yuxiangtiant.github.io/"
+    - LDX: "lie209.github.io"
 
 ################
 # --- Logo --- #
@@ -50,13 +52,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "2250047931@qq.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  github: wut2017syj
+  qq: 2250047931
+  wechat: whutsyj
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -88,10 +88,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+  email: true
+  github: true
+  qq: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
