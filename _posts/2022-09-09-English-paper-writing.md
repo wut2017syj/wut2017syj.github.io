@@ -24,4 +24,4 @@ readtime: true
 
 更多详细内容请直接通过ppt获取。*/请尊重作者不作商业使用/*
 
-[讲解ppt文件链接]()
+[请在这个库中获取PPT](https://github.com/wut2017syj/documents "github地址")
