@@ -4,9 +4,9 @@ title: 英语科技文写作
 subtitle: English paper writing
 cover-img: /assets/img/whut.png
 thumbnail-img: /assets/img/syj-9-9.jpg
-tags: [paper,writing,English,科技文写作]
+tags: [科技文写作,paper,writing,English]
 comments: true
-social-share: false
+social-share: true
 readtime: true
 ---
 导师特地布置我们为今年开学的新生进行知识培训，我负责的是英语论文写作分享部分。
